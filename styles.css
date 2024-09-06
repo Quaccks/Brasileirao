@@ -60,6 +60,7 @@ section button {
     margin-top: 1rem; /* Espaçamento acima da caixa de resultados */
     padding: 1rem; /* Espaçamento interno */
     border-radius: 0.6rem; /* Borda arredondada */
+    color: #e7e4ec;
 }
 
 /* Estiliza cada item de resultado */
@@ -94,8 +95,8 @@ section button {
     margin: 0.5rem 0; /* Margem acima e abaixo */
 }
 
-.campo-pesquisa {
-    background-color: wh;
+section p {
+    background-color: white;
     color: black;
 }
 /* Estiliza o rodapé da página */
