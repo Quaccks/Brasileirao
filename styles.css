@@ -3,20 +3,21 @@
 body {
     font-family: "Chakra Petch", sans-serif;
     background-color: #DDDDDD;
-    background-image:url();
-    background-size:cover ;
+    background-image:url(bg3.png);
+    background-repeat: no-repeat ;
+    background-size:cover;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     height: 100vh;
-    margin: 0;
+    margin: 0px;
     padding: 0;
 }
 
 h1 {
     font-size: 2.5rem;
-    color: #ffffff; 
+    color: #e7e4ec; 
     text-align: center; 
     letter-spacing: 0.4rem;
 }
@@ -93,6 +94,10 @@ section button {
     margin: 0.5rem 0; /* Margem acima e abaixo */
 }
 
+.campo-pesquisa {
+    background-color: wh;
+    color: black;
+}
 /* Estiliza o rodapé da página */
 footer {
     background-color: #F5F7F8; /* Cor de fundo do rodapé */
